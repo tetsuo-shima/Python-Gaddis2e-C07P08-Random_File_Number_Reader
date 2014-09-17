@@ -1,0 +1,14 @@
+/usr/bin/python3.4 /home/dwight/PycharmProjects/Python-Gaddis2e-C07P08-Random_File_Number_Reader/random_file_number_reader.py
+Enter amount of random numbers for file: 7
+54
+89
+22
+69
+61
+92
+83
+
+Number of Lines: 7
+Random Number Total: 470
+
+Process finished with exit code 0
